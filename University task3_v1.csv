@@ -1,0 +1,86 @@
+﻿Year,Sl No.,University,City,State,Admission rate,Average SAT equivalent score of students admitted,Avg Cost of Attendance(academic year instituion),in-state tuition and fee,out-state tuition and fee,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion)",Number of undergraduate student,Number of graduate student
+2008,72,Boston College,Chestnut Hill,MA,0.2624,1340,51400,37950,37950,0.9058,9860,4107
+2008,28,Boston University,Boston,MA,0.5861,1264,39506,37050,37050,0.8004,18733,11002
+2008,81,Brandeis University,Waltham,MA,0.344,1363,16194,37294,37294,0.8913,3233,2131
+2008,21,Brown University,Providence,RI,0.1371,1413,50560,37718,37718,0.9435,6008,1814
+2008,4,California Institute of Technology,Pasadena,CA,0.1736,1514,51299,34437,34437,0.8849,913,1205
+2008,19,Carnegie Mellon University,Pittsburgh,PA,0.2889,1392,50148,39564,39564,0.8732,5682,5066
+2008,44,Case Western Reserve University,Cleveland,OH,0.7332,1308,18303,35202,35202,0.8096,4207,3761
+2008,89,Clark University,Worcester,MA,0.5639,1197,17820,34220,34220,0.7257,2320,950
+2008,86,Colorado State University-Fort Collins,Fort Collins,CO,0.8555,1113,23036,5874,21590,0.6312,21671,6418
+2008,9,Columbia University in the city of New York,New York,NY,0.1057,1422,50100,39326,39326,0.9257,7285,13502
+2008,7,Cornell University,Ithaca,NY,0.2066,1395,50384,36504,36504,0.929,13510,5497
+2008,42,Dartmouth College,Hanover,NH,0.1528,1435,50547,36915,36915,0.9484,4164,1324
+2008,94,Drexel University,Philadelphia,PA,0.6815,1195,14707,30440,30440,0.6216,13194,7965
+2008,13,Duke University,Durham,NC,0.2297,1430,52464,37295,37295,0.9505,6394,5884
+2008,38,Emory University,Atlanta,GA,0.2717,1384,49027,36336,36336,0.8652,6719,4227
+2008,90,Florida State University,Tallahassee,FL,0.467,1192,26336,3987,18432,0.6953,31595,7641
+2008,66,George Washington University,Washington,DC,0.3671,1283,51153,40422,40422,0.8077,10701,12126
+2008,23,Georgia Institute of Technology-Main campus,Atlanta,GA,0.6335,1321,20743,6040,25182,0.7719,12565,6440
+2008,3,Harvard University,Cambridge,MA,0.0765,1482,50250,36173,36173,0.9759,6764,16340
+2008,96,Howard University,Washington,DC,0.4852,1129,22277,14685,14685,0.6523,7028,1787
+2008,79,Illinois Institute of Technology,Chicago,IL,0.5718,1241,16003,27513,27513,0.6371,2576,3856
+2008,62,Indiana University-Bloomington,Bloomington,IN,0.7069,1164,48052,8231,24769,0.7259,30394,7814
+2008,91,Iowa State University,Ames,IA,0.8891,1131,19255,6360,17350,0.6736,21004,4718
+2008,12,Johns Hopkins University,Baltimore,MD,0.2609,1395,50030,37700,37700,0.8911,5650,13708
+2008,95,Lehigh University,Bethlehem,PA,0.2791,1315,20488,37550,37550,0.8504,4756,2118
+2008,1,Massachusetts Institute of Technology,Cambridge,MA,0.1186,1464,51406,36390,36390,0.9355,4163,6146
+2008,37,Michigan State University,East Lansing,MI,0.7003,1146,15127,10214,25672,0.7519,36072,8483
+2008,18,New York University,New York,NY,0.3221,1342,49540,37372,37372,0.849,21327,17454
+2008,57,North Carolina State University at Raleigh,Raleigh,NC,0.6032,1158,25195,5286,17584,0.7089,24145,7819
+2008,63,Northeastern University,Boston,MA,0.3513,1269,52707,33721,33721,0.6995,17963,6683
+2008,16,Northwestern University,Evanston,IL,0.2678,1431,52450,37125,37125,0.935,9261,8456
+2008,27,Ohio State University-Main campus,Columbus,OH,0.623,1239,49803,8679,21918,0.7271,39209,13503
+2008,87,Oregon State University,Corvallis,OR,0.8554,1070,18181,6187,18823,0.6198,16224,3632
+2008,29,Pennsylvania State University-Main campus,University Park,PA,0.5096,1194,22606,13706,24940,0.8463,36815,6418
+2008,6,Princeton University,Princeton,NJ,0.0993,1478,49830,34290,34290,0.9605,4845,2452
+2008,31,Purdue University-Main campus,West Lafayette,IN,0.7152,1163,17276,7750,23224,0.7177,32610,7426
+2008,26,Rice University,Houston,TX,0.2298,1425,43586,30486,30486,0.9314,3017,2237
+2008,58,Rutgers University-New Brunswick,New Brunswick,NJ,0.5577,1185,16758,11540,21488,0.746,26829,7538
+2008,2,Stanford University,Stanford,CA,0.0949,1432,51760,36798,36798,0.9444,6759,10280
+2008,69,Stony Brook University,Stony Brook,NY,0.4334,1181,15395,5810,12070,0.6136,15519,7440
+2008,48,Texas A & M University-College Station,College Station,TX,0.7009,1189,20230,7844,22184,0.7825,37357,9609
+2008,78,The University of Tennessee-Knoxville,Knoxville,TN,0.7124,1164,25875,6250,19208,0.5979,21369,8693
+2008,22,The University of Texas at Austin,Austin,TX,0.4353,1225,49950,8532,27760,0.7779,37459,12595
+2008,53,Tufts University,Medford,MA,0.2547,1420,52080,38840,38840,0.9185,5035,3251
+2008,77,Tulane University of Louisiana,New Orleans,LA,0.2698,1332,51478,38664,38664,0.7438,6449,2629
+2008,61,University at Buffalo,Buffalo,NY,0.5166,1149,26742,6285,12545,0.6197,18779,7146
+2008,14,University of California-Berkeley,Berkeley,CA,0.2322,1314,50974,7656,28264,0.8964,24636,9159
+2008,32,University of California-Davis,Davis,CA,0.5861,1145,16052,8635,29243,0.8139,23478,4897
+2008,40,University of California-Irvine,Irvine,CA,0.556,1160,25837,8046,28654,0.8102,21696,4471
+2008,15,University of California-Los Angeles,Los Angeles,CA,0.2357,1275,24725,7551,27572,0.8921,25928,9663
+2008,73,University of California-Riverside,Riverside,CA,0.8668,1028,17842,7845,28453,0.6428,14973,2317
+2008,17,University of California-San Diego,La Jolla,CA,0.4224,1230,17671,8062,28673,0.8515,22048,4258
+2008,35,University of California-Santa Barbara,Santa Barbara,CA,0.544,1179,24599,8386,28994,0.8148,18415,2976
+2008,64,University of California-Santa Cruz,Santa Cruz,CA,0.8113,1127,23261,8200,28778,0.7152,14403,1490
+2008,5,University of Chicago,Chicago,IL,0.2791,1397,52007,38492,38492,0.9181,4926,8658
+2008,76,University of Colorado Boulder,Boulder,CO,0.7796,1180,18008,7278,26756,0.6654,26348,5047
+2008,45,University of Colorado Boulder,Boulder,CO,0.7796,1180,20525,7278,26756,0.6654,26348,5047
+2008,71,University of Connecticut,Storrs,CT,0.5449,1197,25546,9338,24050,0.7608,16348,6583
+2008,84,University of Delaware,Newark,DE,0.58,1197,18858,8646,21126,0.729,16937,3448
+2008,41,University of Florida,Gainesville,FL,0.4146,1262,20831,3778,20623,0.8164,35189,12669
+2008,82,University of Georgia,Athens,GA,0.5478,1218,51054,6030,22342,0.7889,25335,7160
+2008,24,University of Illinois at Urbana-Champaign,Champaign,IL,0.6903,1287,19841,12106,25890,0.8204,30895,10797
+2008,83,University of Iowa,Iowa City,IA,0.8232,1168,23261,6544,20658,0.6605,20907,6305
+2008,70,University of Kansas,Lawrence,KS,0.9216,1125,18482,7042,17119,0.5973,20828,6516
+2008,34,University of Maryland-College Park,College Park,MD,0.3881,1275,17561,8005,23075,0.8176,25857,10410
+2008,56,University of Massachusetts-Amherst,Amherst,MA,0.643,1151,42620,10232,21729,0.6819,20114,5820
+2008,54,University of Miami,Coral Gables,FL,0.3863,1290,23433,34834,34834,0.7683,10379,4901
+2008,11,University of Michigan-Ann Arbor,Ann Arbor,MI,0.4215,1308,50535,11037,33069,0.8803,26083,15034
+2008,39,University of Minnesota-Twin Cities,Minneapolis,MN,0.5253,1211,21248,10756,14756,0.6567,32294,14918
+2008,25,University of North Carolina at Chapel Hill,Chapel Hill,NC,0.3484,1300,52150,5397,22295,0.8567,17628,8275
+2008,50,University of Notre Dame,Notre Dame,IN,0.2673,1426,49708,36850,36850,0.9578,8371,2779
+2008,93,University of Oklahoma-Norman Campus,Norman,OK,0.7326,1168,19618,7423,17404,0.6175,19512,6169
+2008,10,University of Pennsylvania,Philadelphia,PA,0.1693,1418,48990,37526,37526,0.952,11877,9867
+2008,36,University of Pittsburgh-Pittsburgh campus,Pittsburgh,PA,0.5558,1241,46521,13642,23290,0.7629,17208,10135
+2008,43,University of Rochester,Rochester,NY,0.4115,1314,48217,37250,37250,0.837,5131,3930
+2008,33,University of Southern California,Los Angeles,CA,0.2194,1367,26275,37693,37693,0.8794,16384,14457
+2008,99,University of Vermont,Burlington,VT,0.6481,1184,22554,12844,29682,0.7117,10504,1410
+2008,46,University of Virginia-Main Campus,Charlottesville,VA,0.3668,1328,49820,9300,29600,0.9307,15078,7608
+2008,20,University of Wisconsin-Madison,Madison,WI,0.6283,1266,46175,7564,21814,0.8134,30166,11258
+2008,47,Vanderbilt University,Nashville,TN,0.2533,1408,51740,37005,37005,0.8945,6532,4194
+2008,74,Wake Forest University,Winston-Salem,NC,0.3838,1314,50550,36975,36975,0.8799,4412,1344
+2008,75,Washington State University,Pullman,WA,0.7221,1105,19307,7564,18600,0.6687,20282,3396
+2008,30,Washington University in St Louis,Saint Louis,MO,0.217,1453,52303,37248,37248,0.9368,7253,5051
+2008,8,Yale University,New Haven,CT,0.0989,1481,51400,35300,35300,0.9738,5311,4915
+2008,60,Yeshiva University,New York,NY,0.6651,1202,19538,32094,32094,0.8253,3017,1423
